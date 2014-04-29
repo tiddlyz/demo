@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    private void newBranch(){
+    	System.out.println("Dummy branch");
+    }
 }
